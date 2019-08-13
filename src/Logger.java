@@ -7,6 +7,10 @@ import java.io.*;
  */
 public class Logger
 {
+
+    private String nextMessage;
+    private Thread thread;
+    private Object monitor;
     // ...
     
     public void setMessage(String newMessage) throws InterruptedException

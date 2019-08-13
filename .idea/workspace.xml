@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3374497b-9e47-42e6-8331-ef00b46f3db5" name="Default Changelist" comment="" />
+    <list default="true" id="3374497b-9e47-42e6-8331-ef00b46f3db5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PGYCa3B6p0OUdwiZasWf87tuxa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -25,6 +36,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Cron" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cron" />
+      <module name="SECLab01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cron" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -36,11 +61,23 @@
       <option name="presentableId" value="Default" />
       <updated>1565501773314</updated>
       <workItem from="1565501777076" duration="4154000" />
-      <workItem from="1565587006868" duration="604000" />
+      <workItem from="1565587006868" duration="1338000" />
+      <workItem from="1565714981125" duration="4200000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

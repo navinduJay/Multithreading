@@ -58,6 +58,9 @@ public class UI
                 
                 // Add new job to the scheduler. (NOTE: you'll need to change the code here.)
                 Job job = new Job(command, delay, logger);
+                jobObj = new Job(command, delay, logger);
+                Thread myThread = new Thread(jobObj, "my-thread");
+                myThread.start();
                 // ...
             }
         }

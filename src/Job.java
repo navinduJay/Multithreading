@@ -7,6 +7,11 @@ import java.io.*;
 public class Job implements Runnable
 {
     private String command;
+
+    public int getDelay() {
+        return delay;
+    }
+
     private int delay;
     private Logger logger;
 
