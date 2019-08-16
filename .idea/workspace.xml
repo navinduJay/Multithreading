@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3374497b-9e47-42e6-8331-ef00b46f3db5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECLab01/Job.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SECLab01/Job.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECLab01/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SECLab01/Logger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECLab01/Scheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SECLab01/Scheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECLab01/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SECLab01/UI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +21,16 @@
   <component name="ProjectId" id="1PGYCa3B6p0OUdwiZasWf87tuxa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Navindu\IdeaProjects\SECLab01" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,6 +73,9 @@
       <workItem from="1565714981125" duration="4420000" />
       <workItem from="1565750940879" duration="1100000" />
       <workItem from="1565846147949" duration="1935000" />
+      <workItem from="1565937257899" duration="17000" />
+      <workItem from="1565965985641" duration="1973000" />
+      <workItem from="1565968555142" duration="238000" />
     </task>
     <servers />
   </component>
