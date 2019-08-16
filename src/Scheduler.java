@@ -31,6 +31,8 @@ public class Scheduler
             @Override
             public void run()
             {
+
+
                 synchronized(monitor)
                 {
                     for(Job job : jobs)
@@ -47,7 +49,7 @@ public class Scheduler
 
         timer = new Timer("scheduler");
 
-        // Run every second (1000L), starting immediately (0L).
+
         timer.scheduleAtFixedRate(schedulerTask, 0L, 1000L);
     }
 
@@ -55,11 +57,11 @@ public class Scheduler
     {
         if(timer == null)
         {
-            // Just a sanity check.
+            // sanity check.
             throw new IllegalStateException("Scheduler already stopped");
         }
 
-        // Stop the timer, and set it to null (so we can perform the sanity checks again).
+
         timer.cancel();
         timer = null;
     }

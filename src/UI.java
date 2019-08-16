@@ -51,7 +51,7 @@ public class UI
                     }
                     catch(InputMismatchException e) 
                     {
-                        // Non-numeric input; continue loop.
+                        System.out.println(e);
                     }
                 }
                 while(delay <= 0);

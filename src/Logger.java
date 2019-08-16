@@ -8,7 +8,7 @@ import java.io.*;
 public class Logger
 {
 
-    private String nextMessage;
+    private String newMessage;
     private Thread thread;
     private Object monitor;
     // ...
